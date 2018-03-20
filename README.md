@@ -1,0 +1,2 @@
+# FunJS
+Fun with JS
